@@ -1,7 +1,7 @@
 {
-    "name": "stylelint-config",
+    "name": "@mjeightyfive/stylelint-config",
     "version": "0.0.1",
-    "description": "> @mjeightyfive/stylelint-config",
+    "description": "stylelint-config",
     "main": "index.js",
     "files": [
         "index.js"
