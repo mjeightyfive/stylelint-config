@@ -20,7 +20,7 @@
         "stylelint-config-standard": "18.3.0"
     },
     "devDependencies": {
-        "jest": "24.8.0",
+        "jest": "24.9.0",
         "stylelint": "9.10.1"
     },
     "peerDependencies": {
