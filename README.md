@@ -1,6 +1,6 @@
-# stylelint-config
+# @mjeightyfive/stylelint-config [![Build Status](https://travis-ci.com/mjeightyfive/stylelint-config-cli.svg?branch=master)](https://travis-ci.com/mjeightyfive/@mjeightyfive/stylelint-config)
 
-> @mjeightyfive/stylelint-config
+> stylelint config
 
 ## Usage
 
